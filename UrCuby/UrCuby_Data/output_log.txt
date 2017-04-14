@@ -1,0 +1,51 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 745 (ID=0x1382)
+    Vendor:   NVIDIA
+    VRAM:     4062 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oscar\Desktop\MyGame - Unity\UrCuby\UrCuby_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.799887 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 638 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.816881 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 477.
+Total: 0.258047 ms (FindLiveObjects: 0.031305 ms CreateObjectMapping: 0.017261 ms MarkObjects: 0.200118 ms  DeleteObjects: 0.008484 ms)
+
+Game over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.461383 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 477.
+Total: 0.217672 ms (FindLiveObjects: 0.021942 ms CreateObjectMapping: 0.009069 ms MarkObjects: 0.179638 ms  DeleteObjects: 0.006729 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.517557 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 334.
+Total: 0.294911 ms (FindLiveObjects: 0.034523 ms CreateObjectMapping: 0.012580 ms MarkObjects: 0.169398 ms  DeleteObjects: 0.077531 ms)
+
