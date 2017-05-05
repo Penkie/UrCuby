@@ -4,7 +4,7 @@ UrCuby
 
 Ouvrir le jeu:
 
-C'est très simple ouvrez le fichier UrCuby.exe
+C'est très simple ouvrez le fichier UrCuby.exe, enjoye!
 
 
 /!\ ATTENTION /!\
